@@ -1,0 +1,25 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Rene Pereira <renedx92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
